@@ -18,19 +18,19 @@
         position: relative;
         display: block;
     }
-    ::-webkit-scrollbar {
+    .rynerg::-webkit-scrollbar {
         width: 10px;
         background: #222; }
-    ::-webkit-scrollbar-track {
+    .rynerg::-webkit-scrollbar-track {
         background: none;
         background-color: none;
         box-shadow: none; 
         -webkit-box-shadow: none; 
         border-radius: 100%; }
-    ::-webkit-scrollbar-thumb {
+    .rynerg::-webkit-scrollbar-thumb {
         background: #d0a34b; 
         border-radius: 10px; }
-    ::-webkit-scrollbar-thumb:hover {
+    .rynerg::-webkit-scrollbar-thumb:hover {
         background: #d0a34b;  }
 
     .rynerg_col_black_imp{
