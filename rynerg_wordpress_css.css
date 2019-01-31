@@ -4,7 +4,7 @@
 * BODY
 ******************************
 */
-    body{
+    body.rynerg{
         max-width: 1920px;
         margin: auto;
         position: fixed;
@@ -14,7 +14,7 @@
         color: #2d2d2d;
         font-weight: normal;
     }
-    body.wp-admin{
+    body.wp-admin.rynerg{
         position: relative;
         display: block;
     }
